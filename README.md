@@ -5,12 +5,7 @@ Just creating a Greeting Activity which contain information about profile Image 
 
 ## Screenshots
 
-![App Screenshot]("")
-
-
-## Screenshots
-
-![App Screenshot](app/src/whatsapp_image.png)
+![App Screenshot]("..\app\src\main\res\drawable\app_screenshot.png")
 
 
 ## Authors
